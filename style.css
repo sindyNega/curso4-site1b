@@ -1,2 +1,17 @@
 body{
-    
+    background-color: rgb(214, 218, 28);
+}
+
+h1 {
+    text-align: center;
+    background: rgb(13, 196, 52);
+}
+
+p {
+    text-align: center;
+    background: rgb(21, 24, 199);
+}
+
+strong {
+    color: rgb(226, 9, 9);
+}

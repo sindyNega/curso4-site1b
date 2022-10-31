@@ -12,10 +12,13 @@ h1 {
 
 nav li {
         display: inline-block;
-}
+        position:absolute 
+        right:30px;
+        top:110px;
+{
+     /* display: inline */
 
-nav li {
-     display: inline;
+
      margin: 10px;
 }
 
